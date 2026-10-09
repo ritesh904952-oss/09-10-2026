@@ -9,7 +9,7 @@ int main()
 
     circumference = 2 * 3.14 * radius;
 
-    printf("Circumference = %.2f", circumference);
+    printf("Circumference = %f", circumference);
 
     return 0;
 }
